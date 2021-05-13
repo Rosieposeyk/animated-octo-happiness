@@ -1,2 +1,2 @@
 # animated-octo-happiness
-*italics would be nice*
+*italics would be great*
