@@ -11,7 +11,7 @@
  * Item 3b
 
 Two Truths One Lie May
-I have two sisters
-I have two brothers
-I live close to one of my cousins
+1. I have two sisters
+2. I have two brothers **LIE**
+3. I live close to one of my cousins
 
