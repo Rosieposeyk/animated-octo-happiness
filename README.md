@@ -1,6 +1,9 @@
 # animated-octo-happiness
 
 *italics would be great*
+
+### bold font
+=======
 =======
 *italics would be nice*
 ### test from yin
